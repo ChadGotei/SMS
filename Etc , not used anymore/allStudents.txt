@@ -1,0 +1,14 @@
+			 Displaying all students
+
+NOTE: You cannot search these students using search function or perform 
+      actions with them "for now".
+---------------------------------------------------------------------------
+
+ID		Name		       	Course		Percentage        
+
+4		pintu sharma		BCA		78
+
+5		deepanHu		BCA		45
+
+4		gaurav sharma		maths		100
+
